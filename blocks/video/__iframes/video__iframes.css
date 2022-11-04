@@ -1,4 +1,6 @@
 .video__iframes {
+  padding: 0;
+  list-style-type: none;
   max-height: 316px;
   max-width: 1050px;
   margin: 0 auto -60px auto;
